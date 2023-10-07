@@ -1,0 +1,57 @@
+body {
+   /* background-color: whi; */
+   padding: 1rem;
+}
+
+.centre-div {
+   margin: auto;
+}
+
+.section {
+   background-color: whitesmoke;
+   border-radius: 10px;
+   padding: 1rem;
+   margin-top: 2rem;
+   margin-bottom: 1rem;
+   width: 65%;
+   box-shadow: 3px 3px 5px darkgrey;
+   font-weight: bolder;
+}
+
+.no-border {
+   border-style: none;
+}
+
+.width-90 {
+   width:  90%;
+}
+
+.padding-small {
+   padding: 0.5rem;
+}
+
+button {
+   display: block;
+   background-color: burlywood;
+   color: white;
+   border-style: none;
+   width:  90%;
+   margin-top: 1rem;
+   margin-bottom: 4rem;
+}
+
+li {
+   width: 85%;
+   border-bottom-color: black;
+   border-bottom-style: solid;
+   border-width: 0.1rem;
+}
+
+li button {
+   margin-top: 0.5rem;
+   margin-bottom: 1rem;
+}
+
+.completed {
+   color: lightgray;
+}
